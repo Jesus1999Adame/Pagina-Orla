@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1 {
+	align-content: center;
+	text-align: center;
+	font-family: "averia-serif-libre";
+	font-size: 167px;
+	color: brown;
+	
+
+
+}
+.piepagina {
+	align-content: center;
+	text-align: center;
+	font-size: 41px;
+}
+body {
+	background-image:url("../img/Imagen1.jpg");
+	background-size: cover;
+}
